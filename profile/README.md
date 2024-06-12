@@ -4,4 +4,4 @@ Jamstack solution for building easily a fast, as accessible as possible and low 
 
 
 **Documentation**\
-https://github.com/hugolify/hugolify-template/wiki
+https://www.hugolify.io/docs/
