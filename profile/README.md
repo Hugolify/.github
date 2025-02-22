@@ -1,6 +1,21 @@
 # Framework Hugo with Bootstrap and CMS
-Jamstack solution for building easily a fast, as accessible as possible and low carbon website.
+A sustainable open-source framework fo building easily a fast, as accessible as possible and low carbon website.
 
+## Content
+- +10 types of content available
+- +20 taxonomies available
 
-**Documentation**\
+## Modular
+- +25 blocks of content available
+
+## CMS
+- Decap CMS
+- Sveltia CMS
+- Netlify CMS
+- Static CMS
+
+## Documentation
+
+Discover how to implement easily Hugolify for your project.
+
 https://www.hugolify.io/docs/
