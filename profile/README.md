@@ -8,6 +8,13 @@ A sustainable open-source framework fo building easily a fast, as accessible as 
 ## Modular
 - +25 blocks of content available
 
+## Additional libraries
+- Carousel with Splide
+- Chart with Chart.js
+- Cookie banner with CookieConsent
+- Lightbox with Tobii
+- Map with Leaflet and OpenStreetMap
+
 ## CMS
 - Decap CMS
 - Sveltia CMS
