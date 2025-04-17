@@ -17,9 +17,10 @@ A sustainable open-source framework fo building easily a fast, as accessible as 
 
 ## CMS
 - Decap CMS
-- Sveltia CMS
 - Netlify CMS
+- Pages CMS
 - Static CMS
+- Sveltia CMS
 
 ## Documentation
 
