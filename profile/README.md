@@ -1,4 +1,4 @@
-# Framework Hugo with Bootstrap and CMS
+# Framework Hugo with Bootstrap and Headless CMS
 A sustainable open-source framework fo building easily a fast, as accessible as possible and low carbon website.
 
 ## Content
@@ -9,10 +9,10 @@ A sustainable open-source framework fo building easily a fast, as accessible as 
 - +25 blocks of content available
 
 ## Additional libraries
-- Carousel with Splide
+- Carousel with SplideJS
 - Chart with Chart.js
 - Cookie banner with CookieConsent
-- Lightbox with Tobii
+- Lightbox with TobiiJS
 - Map with Leaflet and OpenStreetMap
 
 ## CMS
