@@ -2,7 +2,7 @@
 
 Hugolify is an open-source framework that gives you everything you need to launch a professional website quickly: ready-made content types, a rich library of blocks, and integration with the most popular Git-based CMS. No database, no server to maintain, no compromise on performance.
 
-<img width="1280" height="640" alt="share-hugolify" src="https://github.com/user-attachments/assets/e74a4e70-7bfd-4f07-8a41-6feb040a013b" />
+[![Hugolify](https://github.com/user-attachments/assets/e74a4e70-7bfd-4f07-8a41-6feb040a013b)](https://www.hugolify.io)
 
 ## Why Hugolify?
 
